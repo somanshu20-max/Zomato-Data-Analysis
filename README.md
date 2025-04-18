@@ -1,8 +1,8 @@
-**## 📊 Zomato Data Analysis**
+**📊 Zomato Data Analysis**
 
 This project is a detailed exploratory data analysis (EDA) of a Zomato restaurant dataset, aimed at uncovering meaningful business insights from customer preferences, restaurant types, cost dynamics, and digital ordering behavior. The analysis highlights how data-driven decisions can improve restaurant performance and customer satisfaction.
 
-**### 🔍 Key Insights:**
+**🔍 Key Insights:**
 
 - **Restaurant Popularity**: Dining-type restaurants are the most common and receive the highest customer engagement (~50% of total votes), followed by cafés and quick bites.
 - **Customer Ratings**: The majority of ratings fall between **3.5 and 4.0**, showing a competitive and quality-conscious restaurant landscape.
@@ -12,7 +12,7 @@ This project is a detailed exploratory data analysis (EDA) of a Zomato restauran
   - **Dining restaurants** are primarily offline-focused.
   - **Cafés and quick bites** receive a higher proportion of online orders.
 
-**### 📌 Tools & Techniques Used:**
+**📌 Tools & Techniques Used:**
 - **Languages & Libraries**: Python, Pandas, NumPy, Matplotlib, Seaborn
 - **Data Cleaning**: Handled missing values, transformed string ratings to numeric, formatted cost data
 - **Visualizations**: Count plots, box plots, histograms, line plots, heatmaps
