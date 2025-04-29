@@ -18,8 +18,4 @@ This project is a detailed exploratory data analysis (EDA) of a Zomato restauran
 - **Visualizations**: Count plots, box plots, histograms, line plots, heatmaps
 - **Analysis Techniques**: Grouping, binning, cross-tabulation, percentage-based insights
 
----
 
-📂 This project demonstrates my ability to extract actionable insights from raw datasets, clean and process large volumes of data, and communicate findings through clear visualizations and storytelling.
-
-Feel free to explore the notebooks, fork the project, or reach out for collaboration! 😊
